@@ -1,4 +1,4 @@
-# May The Force Be With You
+# Star Trek
 
 [![Build Status](https://travis-ci.org/hackercompany/MayTheForceBeWithYou.svg?branch=master)](https://travis-ci.org/hackercompany/MayTheForceBeWithYou) [![Go Report Card](https://goreportcard.com/badge/github.com/hackercompany/MayTheForceBeWithYou)](https://goreportcard.com/report/github.com/hackercompany/MayTheForceBeWithYou)
 
