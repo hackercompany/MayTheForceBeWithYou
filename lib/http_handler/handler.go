@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hackercompany/MayTheForceBeWithYou/constants"
-	"github.com/hackercompany/MayTheForceBeWithYou/logger"
+	"github.com/hackercompany/StarTrek/constants"
+	"github.com/hackercompany/StarTrek/logger"
 )
 
 // Global http client to handle add requests

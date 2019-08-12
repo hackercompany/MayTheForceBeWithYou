@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/hackercompany/MayTheForceBeWithYou/constants"
+	"github.com/hackercompany/StarTrek/constants"
 )
 
 // Master codex for klingon

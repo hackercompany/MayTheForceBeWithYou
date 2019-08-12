@@ -3,7 +3,7 @@ package codex
 import (
 	"testing"
 
-	"github.com/hackercompany/MayForceBeWithYou/constants"
+	"github.com/hackercompany/StarTrek/constants"
 
 	"github.com/stretchr/testify/assert"
 )

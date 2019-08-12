@@ -7,9 +7,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/hackercompany/MayTheForceBeWithYou/constants"
-	libhttp "github.com/hackercompany/MayTheForceBeWithYou/lib/http_handler"
-	"github.com/hackercompany/MayTheForceBeWithYou/logger"
+	"github.com/hackercompany/StarTrek/constants"
+	libhttp "github.com/hackercompany/StarTrek/lib/http_handler"
+	"github.com/hackercompany/StarTrek/logger"
 )
 
 // SearchCharacterInfoByName searches for the character

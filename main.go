@@ -6,8 +6,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/hackercompany/MayTheForceBeWithYou/cache"
-	"github.com/hackercompany/MayTheForceBeWithYou/codex"
+	"github.com/hackercompany/StarTrek/cache"
+	"github.com/hackercompany/StarTrek/codex"
 )
 
 func init() {

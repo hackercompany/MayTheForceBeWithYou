@@ -5,9 +5,9 @@ import (
 	"errors"
 	"io/ioutil"
 
-	"github.com/hackercompany/MayTheForceBeWithYou/constants"
-	"github.com/hackercompany/MayTheForceBeWithYou/lib/stapi"
-	"github.com/hackercompany/MayTheForceBeWithYou/logger"
+	"github.com/hackercompany/StarTrek/constants"
+	"github.com/hackercompany/StarTrek/lib/stapi"
+	"github.com/hackercompany/StarTrek/logger"
 )
 
 var cachedCharacters map[string]Character

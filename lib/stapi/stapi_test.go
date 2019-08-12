@@ -1,7 +1,7 @@
 package stapi
 
 import (
-	"github.com/hackercompany/MayForceBeWithYou/constants"
+	"github.com/hackercompany/StarTrek/constants"
 
 	"testing"
 
