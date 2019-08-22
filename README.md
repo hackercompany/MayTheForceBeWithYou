@@ -1,6 +1,6 @@
 # Star Trek
 
-[![Build Status](https://travis-ci.org/hackercompany/MayTheForceBeWithYou.svg?branch=master)](https://travis-ci.org/hackercompany/MayTheForceBeWithYou) [![Go Report Card](https://goreportcard.com/badge/github.com/hackercompany/MayTheForceBeWithYou)](https://goreportcard.com/report/github.com/hackercompany/MayTheForceBeWithYou)
+[![Build Status](https://travis-ci.org/hackercompany/StarTrek.svg?branch=master)](https://travis-ci.org/hackercompany/StarTrek) [![Go Report Card](https://goreportcard.com/badge/github.com/hackercompany/MayTheForceBeWithYou)](https://goreportcard.com/report/github.com/hackercompany/MayTheForceBeWithYou)
 
 This application is to translate English names to their Klingon equivalent and also gives the species of the given character(if exists) taking data from http://stapi.co
 
